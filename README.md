@@ -30,7 +30,7 @@ This model was trained to understand and generate text specific to cardiovascula
 
 This repo hosts documentation and pointers to:
 
-- 🔗 Model weights on Hugging Face: [`shubhambsk/CardioLlama_Model`](https://huggingface.co/shubhambsk/CardioLlama)
+- 🔗 Model weights on Hugging Face: [`shubhambsk/CardioLlama`](https://huggingface.co/shubhambsk/CardioLlama)
 - 🌐 Inference space: [`shubhambsk/CardioLlama`](https://huggingface.co/spaces/shubhambsk/CardioLlama)
 - 🧾 Example prompts and expected responses
 - 📜 Licensing and limitations
